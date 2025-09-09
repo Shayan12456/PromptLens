@@ -31,7 +31,7 @@ export default function App() {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 1,
-      text: "Welcome! How can I help you navigate your screen today?",
+      text: "How may I help you?",
       sender: "ai",
     },
   ]);
